@@ -46,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:jean-charles.noirot-ferrand@ecl21.ec-lyon.fr'
+    link: mailto:jean-charles.noirot-ferrand@ecl21.ec-lyon.fr
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/
@@ -71,8 +71,6 @@ highlight_name: true
 ---
 
 Welcome! I am a M.S. Student in Computer Sciences at the University of Wisconsin-Madison. 
-
-I was previously at [École Centrale de Lyon](https://www.ec-lyon.fr/en).
-
+I was previously at École Centrale de Lyon.
 My research interests are centered around building more secure and trustworthy Machine Learning models.
 {style="text-align: justify;"}
