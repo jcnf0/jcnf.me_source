@@ -29,7 +29,7 @@ sections:
           location: Madison, WI
           date_start: '2021-08-21'
           date_end: ''
-          description: Supervisor: Professor Patrick McDaniel
+          description: Professor Patrick McDaniel
         - title: Research Intern
           company: LIRIS
           company_url: https://liris.cnrs.fr/
