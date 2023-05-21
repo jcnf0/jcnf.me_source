@@ -22,7 +22,7 @@ organizations:
     url: https://www.wisc.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include adversarial machine learning, security and privacy.
 
 # Interests to show in About widget
 interests:
@@ -36,8 +36,14 @@ education:
       institution: University of Wisconsin-Madison
       year: 2023-2025
     - course: B.S. and M.S. in General Engineering
-      institution: Ecole Centrale de Lyon
+      institution: École Centrale de Lyon
       year: 2021-2025
+    - course: B.S. in General Mathematics and Applications
+      institution: Université Claude Bernard Lyon 1
+      year: 2021-2022
+    - course: Classe préparatoires aux grandes écoles
+      institution: Lycée Marcelin Berthelot
+      year: 2019-2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
