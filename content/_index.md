@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
-date: 2022-10-24
+title: Jean-Charles Noirot Ferrand
+date: 2023-05-21
 type: landing
 sections:
   - block: about.biography
