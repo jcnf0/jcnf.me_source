@@ -23,7 +23,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Assistant
-          company: University of Wisconsin-Madison
+          company: University of Wisconsin
           company_url: https://www.wisc.edu/
           company_logo: org-gc
           location: Madison, WI
