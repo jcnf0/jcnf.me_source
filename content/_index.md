@@ -24,7 +24,7 @@ sections:
       items:
         - title: Research Assistant
           company: University of Wisconsin-Madison
-          company_url: ''
+          company_url: https://www.wisc.edu/
           company_logo: org-gc
           location: Madison, WI
           date_start: '2021-08-21'
