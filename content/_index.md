@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Jean-Charles Noirot Ferrand
+title: 
 date: 2023-05-21
 type: landing
 sections:
