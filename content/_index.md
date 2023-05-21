@@ -25,7 +25,7 @@ sections:
         - title: Research Assistant
           company: University of Wisconsin-Madison
           company_url: https://www.wisc.edu/
-          company_logo: org-gc
+          company_logo: uwmadison
           location: Madison, WI
           date_start: '2021-08-21'
           date_end: ''
@@ -33,7 +33,7 @@ sections:
         - title: Research Intern
           company: LIRIS
           company_url: https://liris.cnrs.fr/
-          company_logo: org-x
+          company_logo: liris
           location: France
           date_start: '2023-05-02'
           date_end: '2023-07-28'
