@@ -22,4 +22,4 @@ jobs:
         HUGO_VERSION: 0.111.3
         TARGET_REPO: jcnf0/jcnf0.github.io
         TOKEN: ${{ secrets.HUGO_DEPLOY_TOKEN }}
-        CNAME: www.jcnf.me
+        CNAME: www.jcnf0.github.io
