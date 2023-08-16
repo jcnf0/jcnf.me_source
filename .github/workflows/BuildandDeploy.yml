@@ -23,6 +23,6 @@ jobs:
         HUGO_EXTENDED: true
         TARGET_REPO: jcnf0/jcnf0.github.io
         TOKEN: ${{ secrets.HUGO_DEPLOY_TOKEN }}
-        CNAME: www.jcnf.me
+        CNAME: jcnf.me
         HUGO_ARGS: --debug
         GO_VERSION: 1.17
