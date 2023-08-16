@@ -28,6 +28,7 @@ bio: My research interests include adversarial machine learning, security and pr
 interests:
   - Artificial Intelligence
   - Security and Privacy
+  - Censorship
  
 # Education to show in About widget
 education:
