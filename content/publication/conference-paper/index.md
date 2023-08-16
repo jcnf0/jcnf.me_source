@@ -1,4 +1,4 @@
-
+---
 title: 'DESCRIPT: Data-Encoding Strokes for Creative and Rich Infographics as a Prototyping Tool'
 
 # Authors
