@@ -4,7 +4,6 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Jean-Charles Noirot Ferrand # Website name
-summary: M.S. Student and Research Assistant at the University of Wisconsin-Madison
 baseURL: 'https://jcnf.me/' # Website URL
 
 ############################

@@ -1,6 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: 
+summary: M.S. Student and Research Assistant at the University of Wisconsin-Madison
 date: 2023-05-21
 type: landing
 sections:
@@ -73,7 +74,7 @@ sections:
       title: Featured Publications
       filters:
         folders:
-          - publication
+          - publication/conference-paper/
         featured_only: true
     design:
       columns: '2'
