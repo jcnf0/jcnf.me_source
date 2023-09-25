@@ -25,8 +25,8 @@ publishDate: '2023-09-14T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE PacificVis Pacific Visualization Symposium*
-publication_short: In *PacificVis*
+publication: In *IEEE PacificVis 2023*
+publication_short: 
 
 abstract: "We introduce a user-centered method to capture design structures---data, marks, and their relationships---from graphics. This approach employs minimal user interaction, involving freeform strokes, and is expressive for a wide variety of graphics (e.g., historical, artistic, and computer-generated). An implementation of this method called DESCRIPT demonstrates the iterative process to progressively construct an intermediary pivot format between the representation and the structure by deriving a set of properties from each drawing stroke. The pivot format enables various generations: a data table for visual inspection and export, standard graphics for visual analysis, and graphical re-styling using generative models. We extensively illustrate with various examples and discuss how the method paves the way for a new generation of tools that are not tied to a technical environment and constrained by standard graphical marks and layouts. We expect this method to better understand both current graphics and explore creative design spaces."
 # Summary. An optional shortened abstract.
