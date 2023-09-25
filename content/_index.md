@@ -74,11 +74,11 @@ sections:
       title: Publications
       filters:
         folders:
-          - publication/
+          - publication
         featured_only: true
     design:
       columns: '2'
-      view: card
+      view: citation
   # - block: collection
   #   content:
   #     title: Recent Publications
