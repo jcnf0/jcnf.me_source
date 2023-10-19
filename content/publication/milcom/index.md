@@ -44,9 +44,9 @@ tags:
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+ links:
+ - name: arXiv
+   url: https://arxiv.org/abs/2310.11597
 
 url_pdf: ''
 url_code: ''
