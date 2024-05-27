@@ -1,1 +1,1 @@
-Forked from [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
+Forked from [Hugo Academic Theme](https://github.com/HugoBlox/theme-academic-cv)
