@@ -19,10 +19,10 @@ jobs:
     - name: Hugo Deploy GitHub Pages
       uses: benmatselby/hugo-deploy-gh-pages@master
       env:
-        HUGO_VERSION: 0.101.0
+        HUGO_VERSION: 0.126.1
         HUGO_EXTENDED: true
         TARGET_REPO: jcnf0/jcnf0.github.io
         TOKEN: ${{ secrets.HUGO_DEPLOY_TOKEN }}
         CNAME: jcnf.me
         HUGO_ARGS: --debug
-        GO_VERSION: 1.17
+        GO_VERSION: 1.22
