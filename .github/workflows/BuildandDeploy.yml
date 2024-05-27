@@ -25,4 +25,4 @@ jobs:
         TOKEN: ${{ secrets.HUGO_DEPLOY_TOKEN }}
         CNAME: jcnf.me
         HUGO_ARGS: --debug
-        GO_VERSION: 1.22
+        GO_VERSION: 1.15
