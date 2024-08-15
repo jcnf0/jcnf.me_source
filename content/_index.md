@@ -51,6 +51,7 @@ sections:
       subtitle: ''
       text: |2-
         #### External Reviewer 
+        - IEEE Symposium on Security and Privacy (S&P) - 2024
         - ACM Conference on Computer and Communications Security (CCS) - 2024
     design:
       css_class: "activities-block"
