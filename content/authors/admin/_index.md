@@ -67,6 +67,8 @@ profiles:
   # and uncomment the lines below.
   - icon: academicons/cv
     url: uploads/cv.pdf
+  - icon: brands/orcid
+    url: https://orcid.org/0009-0009-9650-4011
 
 
 work:
