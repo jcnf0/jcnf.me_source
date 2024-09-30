@@ -69,6 +69,8 @@ profiles:
     url: uploads/cv.pdf
   - icon: brands/orcid
     url: https://orcid.org/0009-0009-9650-4011
+  - icon: custom/key
+    url: uploads/jcnf-pub.gpg
 
 
 work:

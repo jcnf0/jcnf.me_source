@@ -56,7 +56,18 @@ sections:
     design:
       css_class: "activities-block"
       columns: '1'
-  # - block: collection
+  - block: markdown
+    id: activities
+    content:
+      title: 'Departmental Service'
+      subtitle: ''
+      text: |2-
+        #### Mentoring
+        - Mentor for new CS Graduate Students (2024)
+    design:
+      css_class: "activities-block"
+      columns: '1'
+  # - block: collection 
   #   content:
   #     title: Recent Publications
   #     text: ""
